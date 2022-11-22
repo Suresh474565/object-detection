@@ -1,0 +1,38 @@
+
+#heading
+{
+
+width: 100%;
+margin: 0px;
+background-color: darkcyan;
+color: burlywood;
+}
+
+#status
+{
+font-size: 22px;
+background-color: azure;
+color: goldenrod;
+width: fit-content;
+}
+
+body
+{
+
+background-position:center ;
+background-size: cover;
+
+
+}
+
+canvas
+{
+
+box-shadow: 5px 5px 5px black;
+border-radius: 20px;
+border-color: chartreuse;
+background-color: darkslategray;
+
+
+}
+
